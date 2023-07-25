@@ -1,0 +1,36 @@
+.nav{
+    background-color: rgb(209, 52, 52);
+    text-align: center;
+    height: auto;
+    color: white;
+    padding: 20px;
+}
+
+.card{
+    display: flex;
+    float: left;
+    margin:50px 200px 20px 200px;
+}
+
+.card--text{
+    margin-left: 20px;
+}
+
+.card--img{
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.card--human{
+    margin-left:30px ;
+    color: gray;
+    text-decoration: underline;
+}
+
+.card--country{
+    font-weight: bold;
+}
+
+.line{
+    margin: 0 200px 0 200px;
+}
